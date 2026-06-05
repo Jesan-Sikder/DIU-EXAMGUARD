@@ -92,18 +92,7 @@ $$\begin{cases}
 
 ---
 
-## 🎁 Competition Demonstration Pitch Guide
 
-During your presentation, emphasize how your team solved the standard challenges of AI prototypes by choosing an **Edge-Computed Web Solution**:
-
-1.  **Pitch Zero Server Latency:**
-    *"Instead of flooding Daffodil International University's internet network with dozens of simultaneous HD video streams back-and-forth to a server, **ExamGuard compiles the neural network directly into the browser (via TensorFlow.js)**. Detection happens on the device itself with absolute privacy and zero lag!"*
-2.  **Pitch Robust Offline Reliability (Smart Campus Vision):**
-    *"If the internet goes down, ExamGuard still tracks infractions and secures local evidence snapshots without failing. Once connection resumes, logs sync back to our server seamlessly."*
-3.  **Pitch Human-In-The-Loop Decision Support:**
-    *"ExamGuard does not auto-punish students. It serves as a visual, interactive logging assistant for university invigilators, providing timestamped evidence and an structured brief to eliminate reporting bias."*
-
----
 
 ## 👥 Full-Stack Team Profile
 
