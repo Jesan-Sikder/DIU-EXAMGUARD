@@ -1,0 +1,10 @@
+{
+  "name": "DIU ExamGuard",
+  "description": "Real-time AI-powered exam monitoring and proctoring assistant using head-pose estimation and phone detection to maintain academic integrity.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

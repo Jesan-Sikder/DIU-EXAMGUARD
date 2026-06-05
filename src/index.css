@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-bg: var(--brand-bg, #000000);
+  --color-brand-card: var(--brand-card, #0B0C0E);
+  --color-brand-border: var(--brand-border, #1E2229);
+  --color-brand-frame: var(--brand-frame, #111317);
+  --color-brand-text: var(--brand-text, #F3F4F6);
+  --color-brand-muted: var(--brand-muted, #757F8E);
+  --color-brand-aside: var(--brand-aside, #050607);
+}
+
+:root {
+  --brand-bg: #000000;
+  --brand-card: #0B0C0E;
+  --brand-border: #1E2229;
+  --brand-frame: #111317;
+  --brand-text: #F3F4F6;
+  --brand-muted: #757F8E;
+  --brand-aside: #050607;
+}
+
+:root.light {
+  --brand-bg: #FFFFFF;
+  --brand-card: #F9FAFB;
+  --brand-border: #E5E7EB;
+  --brand-frame: #F3F4F6;
+  --brand-text: #111827;
+  --brand-muted: #6B7280;
+  --brand-aside: #F9FAFB;
+}
+

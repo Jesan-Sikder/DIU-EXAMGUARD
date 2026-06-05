@@ -1,0 +1,11 @@
+{
+  "alerts": [],
+  "currentStudent": {
+    "name": "Person 1",
+    "id": "cctv_person_1",
+    "department": "Computer Science & Engineering (CSE)",
+    "course": "Artificial Intelligence Lab (CSE-412)",
+    "examTitle": "Midterm Exam on Machine Learning & Computer Vision",
+    "room": "DIU Smart Classroom-704"
+  }
+}
